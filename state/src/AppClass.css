@@ -1,0 +1,51 @@
+.main{
+  background-color: beige;
+  width: 100%;
+  height: 100vh;
+  text-align: center;
+  background-image: url('https://thumbs.dreamstime.com/z/fond-clair-gris-de-technologie-60094153.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: fixed;
+  
+
+}
+.profile{
+  background-color: rgb(246, 236, 248);
+  color:rgb(43, 32, 35);
+  width:80% ;
+  margin: auto;
+  text-align: center;
+  border-radius: 10px;
+  border: 1px solid grey;
+
+}
+h1{
+  text-align: center;
+  color: rgb(15, 50, 82);
+}
+h2{
+  color: rgb(126, 11, 161);
+}
+img{
+  width: 250px;
+  height: 200px;
+  border-radius: 10px;
+  border: 1px solid black;
+  margin: 20px;
+}
+p{
+  width: 70%;
+  text-align: center;
+  margin: auto;
+}
+.btnName{
+  text-align: center;
+  color: rgb(19, 17, 17);
+  background-color: rgb(240, 229, 226);
+  border-radius: 10px;
+  padding: 15px;
+  margin: 20px;
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+}
